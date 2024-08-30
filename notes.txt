@@ -12,7 +12,7 @@ git add . pour tout ajouter
 
 git commit -m "first commit" pour enregistrer les changements
 
-Historique des commîtes : git log
+Historique des commîtes : git log / git log --oneline
 
 Pour rajouter un fichier oublié dans un commit :
 git add fichieroubié
@@ -44,6 +44,6 @@ Se positionner sur le commit : git tag nom-du-tag
 
 
 Push un projet déjà existant
-git remote add origin https://github.com/UTurtleDev/nom-du-depot.git
+git remote add origin https://github.com/UTurtleDev/nom-du-depot.git pour lier le dépôt
 Mettre à jour sur git
 git push -u origin main
