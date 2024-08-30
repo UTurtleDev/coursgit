@@ -34,3 +34,10 @@ git branch -d nom-branche à partir d'un autre branche
 
 Renommer une branche
 Sur la branche à renommer : git branch -m nouveau-nom
+
+
+Revenir sur un commit
+git checkout id-du-commit
+
+Créer un tag sur un commit
+Se positionner sur le commit : git tag nom-du-tag
