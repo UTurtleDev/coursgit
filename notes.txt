@@ -1,0 +1,11 @@
+Config :
+git config --global user.name "xxxx"
+git config --global user.email "xxxx"
+git config --list pour voir les infos
+
+
+Initialisation du dépôt : git init
+
+git status pour voir les fichiers modifiés
+git add fichier pour ajouter un fichier
+git add . pour tout ajouter
