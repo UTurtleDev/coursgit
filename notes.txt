@@ -23,3 +23,7 @@ Pour voir la branche ou l'on est : git branch
 Créer une nouvelle branche : git branch exemple
 Changement de branche : git switch exemple
 
+Fusionner les branches
+Se mettre sur le main
+git merge non-de-la-branche à fusionner
+
