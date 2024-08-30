@@ -13,3 +13,7 @@ git add . pour tout ajouter
 git commit -m "first commit" pour enregistrer les changements
 
 Historique des commîtes : git log
+
+Pour rajouter un fichier oublié dans un commit :
+git add fichieroubié
+git commit --amend : 
