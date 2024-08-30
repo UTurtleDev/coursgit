@@ -10,4 +10,6 @@ git status pour voir les fichiers modifiés
 git add fichier pour ajouter un fichier
 git add . pour tout ajouter
 
-git commit -m "first commit"
+git commit -m "first commit" pour enregistrer les changements
+
+Historique des commîtes : git log
