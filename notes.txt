@@ -22,6 +22,7 @@ git commit --amend :
 Pour voir la branche ou l'on est : git branch
 Créer une nouvelle branche : git branch exemple
 Changement de branche : git switch exemple
+git switch -c nom-branche   pour créer la branche et switcher dessus directement (c pour Create)
 
 Fusionner les branches
 Se mettre sur le main
@@ -30,3 +31,6 @@ git merge non-de-la-branche à fusionner
 
 Suppression d'une branche
 git branch -d nom-branche à partir d'un autre branche
+
+Renommer une branche
+Sur la branche à renommer : git branch -m nouveau-nom
