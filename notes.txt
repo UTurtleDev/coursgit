@@ -44,6 +44,7 @@ Se positionner sur le commit : git tag nom-du-tag
 
 
 Push un projet déjà existant
+git init pour initialiser git
 git remote add origin https://github.com/UTurtleDev/nom-du-depot.git pour lier le dépôt
 Mettre à jour sur git
 git push -u origin main
