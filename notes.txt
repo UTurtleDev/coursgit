@@ -47,3 +47,7 @@ Push un projet déjà existant
 git remote add origin https://github.com/UTurtleDev/nom-du-depot.git pour lier le dépôt
 Mettre à jour sur git
 git push -u origin main
+
+
+Pour vérifier si le dépôt est lié
+git remote -v
