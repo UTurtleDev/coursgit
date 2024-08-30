@@ -27,3 +27,6 @@ Fusionner les branches
 Se mettre sur le main
 git merge non-de-la-branche à fusionner
 
+
+Suppression d'une branche
+git branch -d nom-branche à partir d'un autre branche
