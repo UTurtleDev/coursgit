@@ -20,3 +20,6 @@ git commit --amend :
 
 
 Pour voir la branche ou l'on est : git branch
+Créer une nouvelle branche : git branch exemple
+Changement de branche : git switch exemple
+
