@@ -17,3 +17,6 @@ Historique des commîtes : git log
 Pour rajouter un fichier oublié dans un commit :
 git add fichieroubié
 git commit --amend : 
+
+
+Pour voir la branche ou l'on est : git branch
